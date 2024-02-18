@@ -8,11 +8,10 @@
     font-family: 'Raleway', sans-serif;
 }
 
-.date,
+/* .date,
 .day {
     background-color: skyblue;
     border-radius: 5px;
-    /* height: 50px; */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -24,4 +23,4 @@
     background-color: lawngreen;
     font-size: 1em;
 
-}
+} */
